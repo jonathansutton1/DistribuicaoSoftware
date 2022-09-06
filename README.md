@@ -5,5 +5,7 @@
 pip install -i https://test.pypi.org/simple/ dev-aberto-jonathans==0.1)
 ```
 
+[Link no Test.pypi](https://test.pypi.org/project/dev-aberto-jonathans/0.1/)
+
 # Link do repositório da discplina
 https://github.com/Insper/dev-aberto
